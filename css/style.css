@@ -25,3 +25,25 @@
 	max-width: 100%;
 	flex-basis: 100%;
 }
+@media (min-width:1300px) {
+    
+}
+
+@media (max-width:1300px) {
+   
+}
+
+@media (max-width:1000px) {
+    
+}
+
+@media (max-width:800px) {
+    
+}
+
+@media (max-width:575px) {
+    .container {
+    max-width: 100%;
+}
+
+}
