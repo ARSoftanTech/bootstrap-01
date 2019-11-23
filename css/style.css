@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+}
+.row img{
+	max-width: 33%;
+	flex-basis: 33%;
+	padding: 10px;
+}
+.gallery{
+	padding: 100px 25px;
+	box-sizing: border-box;
+}
+.carousel-indicators li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+.card img{
+	max-width: 100%;
+	flex-basis: 100%;
+}
